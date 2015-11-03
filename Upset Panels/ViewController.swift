@@ -162,6 +162,7 @@ class ViewController: UIViewController {
         number6 = number6 + 1
          number0 = number0 + 1
         number3 = number3 + 1
+        number7 = number7 + 1
         
         if number6 > 1{
             number6 = 0
